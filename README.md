@@ -72,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # AWS trial for Plone 
 Plone is a powerful, flexible (CMS) Content Management Solution that is easy to use and extend. Plone lets non-technical people create and maintain information for a public website or an intranet using only a web browser. Plone allows users to be productive in just half an hour while offering a wealth of community-developed add-ons and extensibility. Blending the creativity and speed of open source with a technologically advanced Python back-end, Plone offers superior security without sacrificing power or extensibility.
+
+# Zope and Plone
+Dexterity does not pretend to work with non-CMF systems, Even where there are dependencies on Zope 2, CMF or Plone, they should - as far as is practical - follow ZCA techniques and best practices. 
